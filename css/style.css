@@ -1,0 +1,19 @@
+* {
+    font-family: 'Alef', sans-serif;
+    margin: 0;
+}
+
+.container {
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container h2 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.container h2, p {
+    text-align: center;
+}
