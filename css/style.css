@@ -9,6 +9,22 @@
     padding: 20px 0;
 }
 
+.class-one {
+    background-color: black;
+}
+
+.class-two {
+    background-color: darkblue;
+}
+
+.class-three {
+    background-color: darkred;
+}
+
+.class-four {
+    background-color: darkslateblue;
+}
+
 .container h2 {
     margin: 0;
     margin-bottom: 20px;
